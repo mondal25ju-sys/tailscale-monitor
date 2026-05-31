@@ -122,12 +122,10 @@ Create configuration file:
 ```bash
 cat > ~/tailscale-monitor/devices.conf << 'EOF'
 # IP | Device Name | User Name
-100.96.203.37|oneplus-iv2201|Prasanna Mobile
-100.95.42.111|myhome-nuc7pjyhn|Home Server
-100.70.89.70|thunderbolt|Prasana Laptop
-100.88.242.128|oppo-cph2625|Samapti Mobile
-100.125.68.108|oppo-a3-pro-5g|Mama Mobile
-100.97.149.22|poco-m6-5g|Prasanna Poco
+# IP | Device Name | User Name
+XXX.XXX.XXX.XXX|oneplus-XXXX|XXXXXX Mobile
+XXX.XXX.XXX.XXX|oneplus-XXXX|XXXXXX Laptop
+XXX.XXX.XXX.XXX|HP-XXXX|XXXXXX Server
 EOF
 ```
 
